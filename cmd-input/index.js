@@ -17,10 +17,6 @@ const fun=(input,callback)=>{
     for(let m=0;m<result.length;m++){
        output.push(callback(result[m]))
     }
-    // output.map(function(element){
-    //     if(element.length===8)return element;
-    //     else 0+element
-    // })
     console.log(output);
     return output;
 }
