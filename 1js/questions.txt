@@ -1,0 +1,10 @@
+Problem - 1:Write a program to given input Check whether  Even or odd.
+Problem - 2:Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz".If its multiple of both 3 and 5, print “FizzBuzz”
+Problem - 3:Write a program to find the Sum of Array Elements.
+Problem - 4:Write a program to check whether a number is a positive number or a negative number?
+Problem - 5:Write a  program for swapping of two arrays 
+Problem - 6:Write a program to find the maximum number in an array using the function
+Problem - 7:Write a program to find Mean of given Array Elements?
+Problem - 8:Write a program to check whether the given character is vowel or consonant 
+Problem - 9:Write a program to find the largest number among the three numbers
+Problem - 10:Write a program to Check Whether the given year is a leap yearor not
