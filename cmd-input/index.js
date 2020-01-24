@@ -18,7 +18,7 @@ const fun=(input,callback)=>{
        output.push(callback(result[m]))
     }
     console.log(output);
-    return output;
+    // return output;
 }
  let str1=""
 
