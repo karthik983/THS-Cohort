@@ -33,7 +33,27 @@ const convAscToBin=(n)=>{
      if(str1.length===8){
      return str1;
      }else{
-        return str1.padStart(8,"0");
+        if(str1.length===7){
+            return 0+str1;
+        }
+        else if(str1.length===6){
+            return "00"+str1;
+        }
+        else if(str1.length===5){
+            return "000"+str1;
+        }
+        else if(str1.length===4){
+            return "0000"+str1;
+        }
+        else if(str1.length===3){
+            return "00000"+str1;
+        }
+        else if(str1.length===2){
+            return "000000"+str1;
+        }
+        else if(str1.length===1){
+            return "0000000"+str1;
+        }
     }
      
 }
