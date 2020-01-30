@@ -1,0 +1,14 @@
+{
+  "name": "algo-section-2",
+  "version": "1.0.0",
+  "description": "algorithms week 2 challenge",
+  "main": "(3.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthik",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
