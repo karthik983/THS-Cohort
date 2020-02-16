@@ -1,0 +1,30 @@
+#bigrec{
+    width:91.6685rem;
+    height:55rem;
+    background-color:red;
+}
+#secrec{
+    width:40.54%;
+    height:100%;
+    background-color: green;
+}
+#thirdrec{
+    width:100%;
+    height:40.54%;
+    background-color: greenyellow;
+}
+#fourthrec{
+    width: 40.54%;
+    height:100%;
+    background-color: hotpink;
+}
+#fifthrec{
+    width:100%;
+    height:40.54%;
+    background-color: black;
+}
+#sixthrec{
+    width:40.54%;
+    height:100%;
+    background-color: blueviolet;
+}

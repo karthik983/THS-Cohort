@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Golden ratio</title>
+    <link rel="stylesheet" href="golden.css">
+</head>
+<body>
+    <div id="container">
+        <div id="bigrec">
+            <div id="secrec">
+                <div id="thirdrec">
+                    <div id="fourthrec">
+                        <div id="fifthrec">
+                            <div id="sixthrec"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+  
+    document.addEventListener("DOMContentLoaded",()=>{
+     document.getElementById("bigrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+     document.getElementById("secrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+     document.getElementById("thirdrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+     document.getElementById("fourthrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+     document.getElementById("fifthrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+     document.getElementById("sixthrec").style.backgroundColor=`rgb(${Math.random()*255},${Math.random()*255},${Math.random()*255})`
+    })
+</script>
+</html>
